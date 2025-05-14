@@ -1,0 +1,6 @@
+2025-03-01 17:58:59,657 - Proxy server running on port 8080
+2025-03-01 18:21:04,736 - Proxy server running on port 8080
+2025-03-01 18:21:09,647 - Received GET request for: /
+2025-03-01 18:21:09,657 - Error handling GET request: Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+2025-03-01 18:21:09,736 - Received GET request for: /favicon.ico
+2025-03-01 18:21:09,738 - Error handling GET request: Invalid URL '/favicon.ico': No scheme supplied. Perhaps you meant https:///favicon.ico?

@@ -1,0 +1,28 @@
+topology
+vlsm
+	public
+	private
+router
+routing
+redistribution
+dhcp (server) - make pools
+ip helper address (command on routers)
+pc - turn ON dhcp
+NAT (NATing walon pe static ip address dena ha) 
+ACL
+
+=========================================================
+
+redistribution:
+router between ospf and rip will be donw as following:
+- rip will be redistributed on ospf
+- ospf will be redistributed on rip
+
+========================================================
+- run "write" command atleast once on all routers
+- private IP Address for NAT only
+
+
+=======================================================
+project vids drive:
+https://drive.google.com/drive/folders/1zl7nj3ogNnWAXCOl8Bott7Fbb0BschG-
